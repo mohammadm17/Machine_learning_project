@@ -5,10 +5,14 @@
 3. [VS Code IDE](https://code.visualstudio.com/download)
 
 Creating environment 
+
 '''
 conda create -p venv python ==3.7 -y
 '''
+
 Activating environment
+
+
 '''
 conda activate venv/
 '''
