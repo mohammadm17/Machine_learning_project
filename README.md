@@ -23,7 +23,8 @@ pip install -r requirements.txt
 '''
 
 1. HEROKU_EMAIL = ansarimohammadm17@gmail.com
-2. HEROKU_API_KEY = 2ec6bc14-a4d4-4ef3-b6d5-264ae765c4fa 
+2. HEROKU_API_KEY = 2ec6bc14-a4d4-4ef3-b6d5-264ae
+
 3. HEROKU_APP_NAME = ml-regressor17
 
  BUILD DOCKER IMAGE
