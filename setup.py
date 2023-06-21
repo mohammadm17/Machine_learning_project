@@ -6,7 +6,7 @@ from typing import List
 
 #Declaring Variables for setup functions
 PROJECT_NAME='housing-predictor'
-VERSION='0.0.3'
+VERSION='0.0.1'
 AUTHOR="Mohammad Ansari"
 DESCRIPTION="This is a first MAchine learning project"
 PACKAGES= ['housing']

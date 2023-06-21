@@ -50,3 +50,8 @@ to stop running container in docker
 '''
 docker stop <container_id>
 '''
+
+Install ipykernel
+"""
+pip install -U ipykernel
+"""
